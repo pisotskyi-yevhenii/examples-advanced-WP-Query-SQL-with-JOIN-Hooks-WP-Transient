@@ -1,2 +1,7 @@
 # examples-advanced-WP-Query-SQL-with-JOIN-Hooks-WP-Transient
-Examples of code:  - Advanced WP Query,  - Complex SQL with JOIN via WP DB,  - WP Transient,  - Hooks,  - Programatic downloads an external media file, checks if it’s already attached to the given post, and if not — adds it to the WordPress Media Library, attaches it to the post, deletes the old attachment, and returns the new attachment ID.
+Examples of code: 
+- Advanced WP Query, 
+- Complex SQL with JOIN via WP DB, 
+- WP Transient, 
+- Hooks, 
+- Programatic downloads an external media file, checks if it’s already attached to the given post, and if not — adds it to the WordPress Media Library, attaches it to the post, deletes the old attachment, and returns the new attachment ID.
