@@ -4,4 +4,4 @@ Examples of code:
 - Complex SQL with JOIN via WP DB, 
 - WP Transient, 
 - Hooks, 
-- Programatic downloads an external media file, checks if it’s already attached to the given post, and if not — adds it to the WordPress Media Library, attaches it to the post, deletes the old attachment, and returns the new attachment ID.
+- Programatic downloads an external media file, checks if it’s already attached to the given post, and if not — adds it to the WordPress Media Library, attaches it to the post, deletes the old attachment, returns the new attachment ID.
